@@ -8,45 +8,36 @@ In each meeting, you are required to discuss:
 4. Deviations and changes to the project plan, if any
 
 
-# Meeting dd.mm.2021 HH::MM
+# Meeting 07.11.2022 11::00
 
 **Participants**: 
-1. Member 1
-2. Member 2
-3. Member 3
-4. Member 4 
+1. Quang Ngo
+2. Viet Ngo
+3. Barnik Brata
+4. Chen Wang
 
 ## Summary of works
-1. Member 1 
-   
-   Implementing the class XX. Tested the class XX. 
-   Results are in `tests/<class-xx-tests>`. Resolved the identified problems.
-
-2. Member 2
-
-   Same as above
-
-3. ...
+- Divided the project plan into parts.
+- Assigned parts of the work to members.
+- Each member selected his role.
 
 ## Challenges
 
-1. The integration of UI with the monsters requires an abstract interface.
-2. ...
+1. The gitlab platform is quite hard to get used to.
+2. Nobody has experience on such project before.
 
 ## Actions
-1. Member 1 is going to look into defining an abstract interface for monsters 
-   to enable easy UI integration.
-2. Member 2 is going to work with Member 1 to use abstract interface in derived 
-   monster classes.
-3. Member 2 is going to test the interface.
-4. Member 3 is going to use ...
+1. Chen is going to do the Scope and Schedule parts.
+2. Viet is going to do the Roles part.
+3. Quang is going to do the Features part.
+4. Barnik is going to complete the Structure and Class Hierarchy parts.
 
 > Please reflect these action decisions in your git commit messages so that 
 > your group members and advisor can follow the progress.
 
 ## Project status 
-Short summary of current project status. 
+Sarting with the Project Plan
 
 ### TODOs
-1. Member 1: Write an action.
-2. ...
+1. Completing the Project Plan by 10th November.
+2. Getting used the platform and tools.
