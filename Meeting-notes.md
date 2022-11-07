@@ -17,6 +17,7 @@ In each meeting, you are required to discuss:
 4. Chen Wang
 
 ## Summary of works
+Every members constributed in:
 - Divided the project plan into parts.
 - Assigned parts of the work to members.
 - Each member selected his role.
