@@ -4,10 +4,10 @@ This is the template for the projects. Please copy the project description here.
 You can use Markdown language to render it as formatted **HTML** file.
 
 # Group
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Quang Ngo
+- Viet Ngo
+- Barnik Brata
+- Chen Wang
 
 # Repository organization
 Your project implementation should follow the skelaton organization in this repository.
@@ -50,8 +50,5 @@ preferably at a regular weekly time. In the meeting the group updates:
 It is strongly recommended to use Doxygen to document your source code.
 Please go over the *Project Guidelines* for details.
 
-# TODOs (Date)
-You can create a list of TODOs in this file.
-The recommended format is:
-- Complete class implementation **foo**. Assigned to \<Member 1\>
-- Test ...
+# TODOs (10/11/2022)
+- Complete Project Plan
