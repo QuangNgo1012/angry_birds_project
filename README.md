@@ -1,4 +1,4 @@
-# Project Name (replace here!)
+# Angry Birds 2
 
 This is the template for the projects. Please copy the project description here. 
 You can use Markdown language to render it as formatted **HTML** file.
@@ -50,5 +50,5 @@ preferably at a regular weekly time. In the meeting the group updates:
 It is strongly recommended to use Doxygen to document your source code.
 Please go over the *Project Guidelines* for details.
 
-# TODOs (10/11/2022)
-- Complete Project Plan
+# TODOs (15/11/2022)
+- Meeting with the advisor
