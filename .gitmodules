@@ -1,9 +1,3 @@
-[submodule "libs/libs/sfml"]
-	path = libs/libs/sfml
-	url = https://github.com/SFML/SFML.git
-[submodule "libs/libs/box2d"]
-	path = libs/libs/box2d
-	url = https://github.com/erincatto/Box2D
 [submodule "libs/box2d"]
 	path = libs/box2d
 	url = https://github.com/erincatto/Box2D
