@@ -9,8 +9,8 @@ large dependencies, such as QT.
 
 # List of External Libs
 
-1. [Project1](https://someproject.com/download)
-2. [Project2](https://anotherproject.com/download)
+1. [box2d](https://github.com/erincatto/box2d)
+2. [sfml](https://github.com/SFML/SFML)
 
 
 > If you are using already compiled library, place it in this folder, and set the linker options appropriately.
