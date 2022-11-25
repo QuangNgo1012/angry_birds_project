@@ -8,7 +8,7 @@ In each meeting, you are required to discuss:
 4. Deviations and changes to the project plan, if any
 
 
-# Meeting 17.11.2022 14::00
+# Meeting 22.11.2022 14::00
 
 **Participants**: 
 1. Quang Ngo
@@ -17,18 +17,20 @@ In each meeting, you are required to discuss:
 4. Chen Wang
 
 ## Summary of works
-We discuss and split the task.
+We discuss about the progress of the project and the difficulties of the developement process.
 
 ## Challenges
 
-1. The class hierachy is still unfinished and alot of works need to be done.
+1. We still struggle with the external libraries.
+2. Some members missed the notification on Microsoft Teams about teh meetings.
+3. Struggling to connect the class together.
 
 ## Actions
 
 1. Viet will implement the class menu and its inherit.
-2. Barnik will implement the level and try to build a level.
-3. Quang and Chen will implement the object class.
-4. Quang implement the CMakeList.txt
+2. Barnik will implement the map class and try to build a level.
+3. Chen will implement the object class and its inherit.
+4. Quang will implement the CMakeList.txt and the game class.
 
 > Please reflect these action decisions in your git commit messages so that 
 > your group members and advisor can follow the progress.
@@ -37,5 +39,5 @@ We discuss and split the task.
 The team is building the basic feature of the game at the moment.
 
 ### TODOs
-1. Next meetings will be on 22/11/2022
-2. Try to build the basic features.
+1. Next meetings will be on 29/11/2022
+2. Try to finish build the basic features.
