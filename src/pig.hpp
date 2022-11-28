@@ -15,7 +15,8 @@ class Pig : public Object {
    * @param body Box2D body with all parameters.
    * @param radius Radius of Pig.
    */
-  Pig(b2Body *body, float radius) : Object("resources/images/Pig.png", body) {
+  Pig(b2Body *body, float radius)
+      : Object("../../resources/images/Pig.png", body) {
     int width = sprite_.getTextureRect().width;
     int height = sprite_.getTextureRect().height;
 
