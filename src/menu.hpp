@@ -7,7 +7,7 @@ class Menu
 {
 public:
     Menu();
-    ~Menu();
+    ~Menu(){}
     virtual void DrawMenu(sf::RenderWindow &window) = 0;
     bool IsOpen()
     { 

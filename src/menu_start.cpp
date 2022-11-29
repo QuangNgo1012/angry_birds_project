@@ -13,7 +13,7 @@ StartMenu::StartMenu() : Menu()
     items[1].setString(items_texts[1]);
     items[1].setFillColor(sf::Color::White);
     items[1].setCharacterSize(80);
-    items[1].setPosition(50, 300);
+    items[1].setPosition(50, 400);
     
 };
 

@@ -14,3 +14,5 @@ private:
     const static int items_number = 2;
     sf::Text items[items_number];
 };
+
+#endif

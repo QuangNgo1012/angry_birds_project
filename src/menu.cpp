@@ -2,10 +2,10 @@
 
 Menu::Menu()
 {
-    font_.loadFromFile("resources/font/OpenSans-Bold.ttf");
-    open_ = true;
-    background_image_.loadFromFile("resources/images/menu.png");
-    background_.setSize(sf::Vector2f(1600, 900));
-    background_.setTexture(&background_image_);
-    background_.setPosition(0, 0);
+    font.loadFromFile("src/font/OpenSans-Bold.ttf");
+    state = true;
+    background_image.loadFromFile("src/images/menu.png");
+    background.setSize(sf::Vector2f(1600, 900));
+    background.setTexture(&background_image);
+    background.setPosition(0, 0);
 };
