@@ -1,8 +1,8 @@
-#include "menu_start.hpp"
+#include "menu_lose.hpp"
 
-StartMenu::StartMenu() : Menu()
+LoseMenu::LoseMenu() : Menu()
 {
-    std::string items_texts[items_number] = {"Start","Quit"};
+    std::string items_texts[items_number] = {"Replay","Main Menu","You Lose!"};
     items[0].setFont(font);
     items[0].setString(items_texts[0]);
     items[0].setFillColor(sf::Color::White);
@@ -14,10 +14,16 @@ StartMenu::StartMenu() : Menu()
     items[1].setFillColor(sf::Color::White);
     items[1].setCharacterSize(80);
     items[1].setPosition(50, 300);
+
+    items[1].setFont(font);
+    items[1].setString(items_texts[2]);
+    items[1].setFillColor(sf::Color::Red);
+    items[1].setCharacterSize(150);
+    items[1].setPosition(460, 50);
     
 };
 
-void StartMenu::DrawMenu(sf::RenderWindow &window)
+void LoseMenu::DrawMenu(sf::RenderWindow &window)
 {
     window.draw(background);
     for (auto item : items)

@@ -1,13 +1,13 @@
-#ifndef ANGRY_BIRDS_LOSE_MENU
-#define ANGRY_BIRDS_LOSE_MENU
+#ifndef ANGRY_BIRDS_WIN_MENU
+#define ANGRY_BIRDS_WIN_MENU
 
 #include "menu.hpp"
 #include <string>
 #include <iostream>
-class LoseMenu : public Menu
+class WinMenu : public Menu
 {
 public:
-    LoseMenu();
+    WinMenu();
     void DrawMenu(sf::RenderWindow &window);
 
 private:
