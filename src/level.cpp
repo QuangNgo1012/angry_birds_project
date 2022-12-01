@@ -30,6 +30,7 @@ Level::Level(std::ifstream& file){
 
 
             }
+            count++;
 
         }
 
