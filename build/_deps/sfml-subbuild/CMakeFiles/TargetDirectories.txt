@@ -1,0 +1,3 @@
+E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1157 @@
+[
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Clock.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Err.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Err.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Lock.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Lock.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Lock.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Mutex.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Mutex.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Mutex.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Sleep.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Sleep.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\String.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/String.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Thread.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Thread.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Thread.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\ThreadLocal.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\ThreadLocal.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Time.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Time.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Time.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\FileInputStream.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\MemoryInputStream.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Win32\\ClockImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ClockImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Win32\\MutexImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\MutexImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\SleepImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-system.dir\\Win32\\ThreadLocalImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadLocalImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Main",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/sfml-main.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Main\\MainWin32.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Clipboard.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Context.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Context.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Cursor.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlContext.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlResource.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Joystick.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\JoystickManager.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Keyboard.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Mouse.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Touch.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Touch.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Sensor.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\SensorManager.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\VideoMode.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Window.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Window.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\CursorImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\WglExtensions.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglExtensions.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/WglExtensions.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\InputImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\SensorImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_WINDOW_EXPORTS -DUNICODE -D_UNICODE @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\BlendMode.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Color.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Color.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Font.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Glsl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLCheck.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLExtensions.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Image.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\ImageLoader.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ImageLoader.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderStates.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTexture.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTarget.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderWindow.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shader.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Texture.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\TextureSaver.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transform.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transformable.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\View.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/View.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Vertex.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Vertex.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\GLLoader.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLLoader.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/GLLoader.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\CircleShape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RectangleShape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ConvexShape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Sprite.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Text.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexArray.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexBuffer.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImpl.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImpl.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\ALCheck.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\ALCheck.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/ALCheck.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\AlResource.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AlResource.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/AlResource.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\AudioDevice.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\AudioDevice.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\Listener.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Listener.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/Listener.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\Music.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Music.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/Music.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\Sound.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\Sound.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/Sound.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundBuffer.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBuffer.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundBuffer.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundBufferRecorder.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundBufferRecorder.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundBufferRecorder.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\InputSoundFile.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\InputSoundFile.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/InputSoundFile.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\OutputSoundFile.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\OutputSoundFile.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundRecorder.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundRecorder.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundRecorder.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundSource.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundSource.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundSource.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundStream.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundStream.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileFactory.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileFactory.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderFlac.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderFlac.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderOgg.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderOgg.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderWav.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileReaderWav.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterFlac.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterFlac.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterOgg.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterOgg.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-build/src/SFML/Audio",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_AUDIO_EXPORTS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterWav.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\sfml-src\\src\\SFML\\Audio\\SoundFileWriterWav.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_broad_phase.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_broad_phase.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_broad_phase.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_chain_shape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_chain_shape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_chain_shape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_circle_shape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_circle_shape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_circle_shape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_collide_circle.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_collide_circle.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_collide_circle.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_collide_edge.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_collide_edge.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_collide_edge.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_collide_polygon.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_collide_polygon.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_collide_polygon.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_collision.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_collision.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_collision.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_distance.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_distance.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_distance.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_dynamic_tree.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_dynamic_tree.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_dynamic_tree.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_edge_shape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_edge_shape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_edge_shape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_polygon_shape.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_polygon_shape.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_polygon_shape.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\collision\\b2_time_of_impact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\collision\\b2_time_of_impact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/collision/b2_time_of_impact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_block_allocator.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_block_allocator.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_block_allocator.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_draw.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_draw.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_draw.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_math.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_math.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_math.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_settings.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_settings.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_settings.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_stack_allocator.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_stack_allocator.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_stack_allocator.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\common\\b2_timer.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\common\\b2_timer.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/common/b2_timer.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_body.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_body.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_body.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_chain_circle_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_chain_circle_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_chain_circle_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_chain_polygon_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_chain_polygon_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_chain_polygon_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_circle_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_circle_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_circle_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_contact_manager.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_contact_manager.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_contact_manager.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_contact_solver.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_contact_solver.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_contact_solver.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_distance_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_distance_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_distance_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_edge_circle_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_edge_circle_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_edge_circle_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_edge_polygon_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_edge_polygon_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_edge_polygon_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_fixture.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_fixture.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_fixture.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_friction_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_friction_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_friction_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_gear_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_gear_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_gear_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_island.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_island.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_island.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_motor_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_motor_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_motor_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_mouse_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_mouse_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_mouse_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_polygon_circle_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_polygon_circle_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_polygon_circle_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_polygon_contact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_polygon_contact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_polygon_contact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_prismatic_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_prismatic_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_prismatic_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_pulley_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_pulley_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_pulley_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_revolute_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_revolute_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_revolute_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_weld_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_weld_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_weld_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_wheel_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_wheel_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_wheel_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_world.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_world.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_world.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\dynamics\\b2_world_callbacks.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\dynamics\\b2_world_callbacks.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/dynamics/b2_world_callbacks.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED -Dbox2d_EXPORTS @CMakeFiles/box2d.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\box2d.dir\\rope\\b2_rope.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\src\\rope\\b2_rope.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/src/rope/b2_rope.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/unit-test",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/unit_test.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\unit_test.dir\\hello_world.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\unit-test\\hello_world.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/unit-test/hello_world.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/unit-test",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/unit_test.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\unit_test.dir\\collision_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\unit-test\\collision_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/unit-test/collision_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/unit-test",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/unit_test.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\unit_test.dir\\joint_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\unit-test\\joint_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/unit-test/joint_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/unit-test",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/unit_test.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\unit_test.dir\\math_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\unit-test\\math_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/unit-test/math_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/unit-test",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/unit_test.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\unit_test.dir\\world_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\unit-test\\world_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/unit-test/world_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glad",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles\\glad.dir\\src\\gl.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glad\\src\\gl.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glad/src/gl.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\context.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\context.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/context.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\init.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\init.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/init.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\input.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\input.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/input.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\monitor.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\monitor.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/monitor.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\vulkan.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\vulkan.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/vulkan.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\window.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\window.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/window.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_init.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_init.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_init.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_joystick.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_joystick.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_monitor.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_monitor.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_time.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_time.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_time.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_thread.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_thread.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_thread.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\win32_window.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\win32_window.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/win32_window.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\wgl_context.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\wgl_context.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/wgl_context.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\egl_context.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\egl_context.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/egl_context.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/glfw",
+  "command": "C:\\MinGW\\mingw32\\bin\\gcc.exe  @CMakeFiles/glfw.dir/includes_C.rsp -g -o CMakeFiles\\glfw.dir\\src\\osmesa_context.c.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\glfw\\src\\osmesa_context.c\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/imgui",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/imgui.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\imgui.dir\\imgui.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\imgui\\imgui.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/imgui/imgui.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/imgui",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/imgui.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\imgui.dir\\imgui_demo.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\imgui\\imgui_demo.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/imgui",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/imgui.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\imgui.dir\\imgui_draw.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\imgui\\imgui_draw.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/imgui",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/imgui.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\imgui.dir\\imgui_widgets.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\imgui\\imgui_widgets.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/extern/sajson",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe  @CMakeFiles/sajson.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\sajson.dir\\sajson.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\extern\\sajson\\sajson.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/extern/sajson/sajson.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\draw.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\draw.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/draw.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\imgui_impl_glfw.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\imgui_impl_glfw.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\imgui_impl_opengl3.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\imgui_impl_opengl3.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\main.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\main.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/main.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\settings.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\settings.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/settings.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\add_pair.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\add_pair.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/add_pair.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\apply_force.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\apply_force.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/apply_force.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\body_types.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\body_types.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/body_types.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\box_stack.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\box_stack.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/box_stack.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\breakable.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\breakable.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/breakable.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\bridge.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\bridge.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/bridge.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\bullet_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\bullet_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/bullet_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\cantilever.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\cantilever.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/cantilever.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\car.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\car.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/car.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\chain.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\chain.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/chain.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\chain_problem.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\chain_problem.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/chain_problem.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\character_collision.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\character_collision.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/character_collision.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\circle_stack.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\circle_stack.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/circle_stack.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\collision_filtering.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\collision_filtering.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/collision_filtering.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\collision_processing.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\collision_processing.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/collision_processing.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\compound_shapes.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\compound_shapes.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/compound_shapes.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\confined.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\confined.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/confined.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\continuous_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\continuous_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/continuous_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\convex_hull.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\convex_hull.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/convex_hull.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\conveyor_belt.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\conveyor_belt.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/conveyor_belt.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\distance_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\distance_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/distance_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\distance_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\distance_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/distance_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\dominos.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\dominos.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/dominos.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\dump_loader.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\dump_loader.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/dump_loader.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\dynamic_tree.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\dynamic_tree.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/dynamic_tree.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\edge_shapes.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\edge_shapes.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/edge_shapes.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\edge_test.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\edge_test.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/edge_test.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\friction.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\friction.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/friction.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\gear_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\gear_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/gear_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\heavy1.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\heavy1.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/heavy1.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\heavy2.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\heavy2.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/heavy2.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\mobile_balanced.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\mobile_balanced.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/mobile_balanced.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\mobile_unbalanced.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\mobile_unbalanced.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/mobile_unbalanced.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\motor_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\motor_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/motor_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\pinball.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\pinball.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/pinball.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\platformer.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\platformer.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/platformer.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\polygon_collision.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\polygon_collision.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/polygon_collision.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\polygon_shapes.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\polygon_shapes.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/polygon_shapes.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\prismatic_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\prismatic_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/prismatic_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\pulley_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\pulley_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/pulley_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\pyramid.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\pyramid.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/pyramid.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\ray_cast.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\ray_cast.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/ray_cast.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\restitution.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\restitution.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/restitution.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\revolute_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\revolute_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/revolute_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\rope.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\rope.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/rope.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\sensor.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\sensor.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/sensor.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\shape_cast.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\shape_cast.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/shape_cast.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\shape_editing.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\shape_editing.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/shape_editing.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\skier.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\skier.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/skier.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\slider_crank_1.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\slider_crank_1.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/slider_crank_1.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\slider_crank_2.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\slider_crank_2.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/slider_crank_2.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\theo_jansen.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\theo_jansen.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/theo_jansen.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\tiles.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\tiles.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/tiles.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\time_of_impact.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\time_of_impact.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/time_of_impact.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\tumbler.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\tumbler.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/tumbler.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\web.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\web.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/web.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\wheel_joint.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\wheel_joint.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/wheel_joint.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-build/testbed",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/testbed.dir/includes_CXX.rsp -g -fvisibility=hidden -fno-keep-inline-dllexport -std=c++11 -o CMakeFiles\\testbed.dir\\tests\\wrecking_ball.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\build\\_deps\\box2d-src\\testbed\\tests\\wrecking_ball.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/build/_deps/box2d-src/testbed/tests/wrecking_ball.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/example_exe.dir/includes_CXX.rsp -g -o CMakeFiles\\example_exe.dir\\bird.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\src\\bird.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/src/bird.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/example_exe.dir/includes_CXX.rsp -g -o CMakeFiles\\example_exe.dir\\level.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\src\\level.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/src/level.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/example_exe.dir/includes_CXX.rsp -g -o CMakeFiles\\example_exe.dir\\main.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\src\\main.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/src/main.cpp"
+},
+{
+  "directory": "E:/Programming 2/Angry Birds/angry-birds-2/build/src",
+  "command": "C:\\MinGW\\mingw32\\bin\\g++.exe -DB2_SHARED @CMakeFiles/example_exe.dir/includes_CXX.rsp -g -o CMakeFiles\\example_exe.dir\\object.cpp.obj -c \"E:\\Programming 2\\Angry Birds\\angry-birds-2\\src\\object.cpp\"",
+  "file": "E:/Programming 2/Angry Birds/angry-birds-2/src/object.cpp"
+}
+]
