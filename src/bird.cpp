@@ -15,7 +15,7 @@ void Bird::Throw() { thrown_ = true; }
 bool Bird::IsThrown() { return thrown_; }
 
 Red::Red(b2Body *body, float radius)
-    : Bird("../../resources/images/Red.png", body, radius) {}
+    : Bird("src/images/Red.png", body, radius) {}
 
 void Red::Step() {
   body_->SetAngularVelocity(40);
@@ -25,7 +25,7 @@ void Red::Step() {
 char Red::GetType() { return 'R'; }
 
 Chuck::Chuck(b2Body *body, float radius)
-    : Bird("../../resources/images/Chuck.png", body, radius) {}
+    : Bird("src/images/Chuck.png", body, radius) {}
 
 void Chuck::Step() {
   body_->SetLinearVelocity(body_->GetLinearVelocity() +
@@ -35,7 +35,7 @@ void Chuck::Step() {
 char Chuck::GetType() { return 'C'; }
 
 Terence::Terence(b2Body *body, float radius)
-    : Bird("../../resources/images/Terence.png", body, radius) {}
+    : Bird("src/images/Terence.png", body, radius) {}
 
 void Terence::Step() {
   body_->SetLinearVelocity(body_->GetLinearVelocity() - b2Vec2(1.0, 1.0));

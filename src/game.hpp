@@ -4,6 +4,7 @@
 #include "menu_start.hpp"
 #include "menu_lose.hpp"
 #include "menu_win.hpp"
+#include "level.hpp"
 
 class Game
 {

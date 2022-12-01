@@ -13,6 +13,10 @@ void Game::Start()
     LoseMenu lose_menu = LoseMenu();
     WinMenu win_menu = WinMenu();
     sf::Clock clock;
+
+    std::ifstream file("src/levels/level1.txt");
+    Level level1 = Level(file);
+
     while (window_.isOpen())
     {
         sf::Vector2f mouse_position = window_.mapPixelToCoords(sf::Mouse::getPosition(window_));
@@ -37,7 +41,7 @@ void Game::Start()
             }
         }
         
-        start_menu.DrawMenu(window_);
+        level1.RenderLevel(window_);
         window_.display();
         
     }

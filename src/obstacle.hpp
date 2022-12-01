@@ -17,7 +17,7 @@ class Obstacle : public Object {
    * @param blockHeight Desired height of the box.
    */
   Obstacle(b2Body *body, float blockWidth, float blockHeight)
-      : Object("../../resources/images/Wood.png", body) {
+      : Object("src/images/Wood.png", body) {
     int width = sprite_.getTextureRect().width;
     int height = sprite_.getTextureRect().height;
 
