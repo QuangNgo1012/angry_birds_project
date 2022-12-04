@@ -1,4 +1,5 @@
 #include "bird.hpp"
+#include <iostream>
 
 Bird::Bird(std::string textureSource, b2Body *body, float radius)
     : Object(textureSource, body) {
@@ -18,8 +19,13 @@ Red::Red(b2Body *body, float radius)
     : Bird("src/images/Red.png", body, radius) {}
 
 void Red::Step() {
-  body_->SetAngularVelocity(40);
-  body_->SetLinearVelocity(body_->GetLinearVelocity() - b2Vec2(0.5, 0.5));
+  if (mana_left_ > 0)
+        {
+            mana_left_ =mana_left_-5;
+            body_->SetAngularVelocity(0);
+            body_->SetLinearVelocity(body_->GetLinearVelocity() + b2Vec2(5, 5));
+
+        }
 }
 
 char Red::GetType() { return 'R'; }
@@ -28,8 +34,13 @@ Chuck::Chuck(b2Body *body, float radius)
     : Bird("src/images/Chuck.png", body, radius) {}
 
 void Chuck::Step() {
-  body_->SetLinearVelocity(body_->GetLinearVelocity() +
+  if (mana_left_ > 0)
+        {
+            mana_left_--;
+            body_->SetLinearVelocity(body_->GetLinearVelocity() +
                            body_->GetLinearVelocity());
+
+        }
 }
 
 char Chuck::GetType() { return 'C'; }
@@ -38,7 +49,11 @@ Terence::Terence(b2Body *body, float radius)
     : Bird("src/images/Terence.png", body, radius) {}
 
 void Terence::Step() {
-  body_->SetLinearVelocity(body_->GetLinearVelocity() - b2Vec2(1.0, 1.0));
+  if (mana_left_ > 0)
+        {
+            mana_left_--;
+            body_->SetLinearVelocity(body_->GetLinearVelocity() - b2Vec2(1.0, 1.0));
+        }
 }
 
 char Terence::GetType() { return 'T'; }

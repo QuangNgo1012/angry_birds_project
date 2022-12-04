@@ -9,22 +9,23 @@ public:
     Menu();
     ~Menu(){}
     virtual void DrawMenu(sf::RenderWindow &window) = 0;
+    // Check if the menu is open
     bool IsOpen()
     { 
-        return state; 
+        return is_open; 
     
     }
-    void CloseMenu() 
+    void Close() 
     { 
-        state = false; 
+        is_open = false; 
     }
-    void OpenMenu() 
+    void Open() 
     { 
-        state = true; 
+        is_open = true; 
     }
 
 protected:
-    bool state;
+    bool is_open;
     sf::Font font;
     sf::Texture background_image;
     sf::RectangleShape background;

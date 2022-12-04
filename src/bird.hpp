@@ -1,5 +1,5 @@
-#ifndef ANGRY_BIRD_BIRD
-#define ANGRY_BIRD_BIRD
+#ifndef ANGRY_BIRDS_BIRD
+#define ANGRY_BIRS_BIRD
 
 #include "object.hpp"
 
@@ -46,11 +46,19 @@ class Bird : public Object {
    */
   virtual void Step() {}
 
+  void UsePower()
+    {
+        if (!exhausted_)
+        {
+            exhausted_ = true;
+            mana_left_ = max_mana_;
+        }
+    }
  protected:
   // Reserved for logic design. Can be used if one bird could hit multiple
   // targets.
-  int maxHP_ = 100;
-  int hp_ = 0.0f;
+  int max_mana_ = 50; 
+  int mana_left_ = 0;
 
   // Used to define the Box2D body of the object.
   b2Body *body_;
@@ -60,6 +68,7 @@ class Bird : public Object {
 
   // Used to define whether the bird has been used.
   bool exhausted_ = false;
+
 };
 
 /**

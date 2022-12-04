@@ -1,5 +1,5 @@
-#ifndef ANGRY_BIRD_PIG
-#define ANGRY_BIRD_PIG
+#ifndef ANGRY_BIRDS_PIG
+#define ANGRY_BIRDS_PIG
 
 #include "object.hpp"
 
@@ -23,7 +23,7 @@ class Pig : public Object {
     sprite_.setScale(radius * 2.0f * 100.0f / (1.0f * width),
                      radius * 2.0f * 100.0f / (1.0f * height));
     sprite_.setOrigin(width / 2.0f, height / 2.0f);
-    hp_ = 500;
+    hp_ = 200;
     fragile_ = true;
   };
 

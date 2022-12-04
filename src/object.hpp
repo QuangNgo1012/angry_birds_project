@@ -1,5 +1,5 @@
-#ifndef ANGRY_BIRD_OBJECT
-#define ANGRY_BIRD_OBJECT
+#ifndef ANGRY_BIRDS_OBJECT
+#define ANGRY_BIRDS_OBJECT
 
 #include <SFML/Graphics.hpp>
 #include <string>

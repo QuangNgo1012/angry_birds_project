@@ -1,5 +1,5 @@
-#ifndef ANGRY_BIRD_OBSTACLE
-#define ANGRY_BIRD_OBSTACLE
+#ifndef ANGRY_BIRDS_OBSTACLE
+#define ANGRY_BIRDS_OBSTACLE
 
 #include "object.hpp"
 
@@ -21,8 +21,8 @@ class Obstacle : public Object {
     int width = sprite_.getTextureRect().width;
     int height = sprite_.getTextureRect().height;
 
-    sprite_.setScale(blockWidth * 2.0f * 100.0f / (1.0f * width),
-                     blockHeight * 2.0f * 100.0f / (1.0f * height));
+    sprite_.setScale(blockWidth * 2.0f * 100.0f/ (1.0f * width),
+                     blockHeight * 2.0f *100.0f / (1.0f * height));
     sprite_.setOrigin(width / 2.0f, height / 2.0f);
 
     hp_ = 500;
