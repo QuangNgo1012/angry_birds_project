@@ -1,6 +1,7 @@
 #ifndef ANGRY_BIRD_OBJECT
 #define ANGRY_BIRD_OBJECT
 
+#include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
 #include <string>
 
@@ -96,6 +97,8 @@ class Object {
    */
   virtual int Attack(float attackPower);
 
+  void MakeSound();
+
   // Save the object information into a file.
   // The output file is in the following order:
   // objectType(char);bodyPosition(b2Vec2);bodyAngel(float);linearVel(b2Vec2);angularVel(float);linearDamp(float);angularDamp(float);isAwake(bool);bodyShape(int);
@@ -112,6 +115,10 @@ class Object {
 
   // Used to store the picture for the object.
   sf::Texture texture_;
+
+  sf::SoundBuffer hit_sound_buffer_;
+
+  sf::Sound hit_sound_;
 
   // Used to define whether the object can be destructed.
   bool fragile_ = false;

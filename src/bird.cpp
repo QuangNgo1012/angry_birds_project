@@ -10,6 +10,13 @@ Bird::Bird(std::string textureSource, b2Body *body, float radius)
   sprite_.setOrigin(width / 2.0f, height / 2.0f);
 }
 
+void Bird::MakeSound() {
+  soundBuffer.loadFromFile(
+      "../../resources/Sounds/Angry_Birds_Bird_Flying_Sound_Effect.mp3");
+  sound.setBuffer(soundBuffer);
+  sound.setVolume(5);
+  sound.play();
+}
 void Bird::Throw() { thrown_ = true; }
 
 bool Bird::IsThrown() { return thrown_; }

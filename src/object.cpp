@@ -33,6 +33,14 @@ int Object::Attack(float attackPower) {
   }
 }
 
+void Object::MakeSound() {
+  hit_sound_buffer_.loadFromFile(
+      "../../resources/Sounds/Angry_Birds_Bird_Destroyed_Sound_Effect.mp3");
+  hit_sound_.setBuffer(hit_sound_buffer_);
+  hit_sound_.setVolume(100);
+  hit_sound_.play();
+}
+
 /**void Object::SaveInfo(std::ofstream &file) {
   file << GetType() << ';';
   file << body_->GetPosition() << ';' << body_->GetAngle() << ';'

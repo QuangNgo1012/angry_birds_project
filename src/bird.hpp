@@ -20,6 +20,12 @@ class Bird : public Object {
   Bird(std::string textureSource, b2Body *body, float radius);
 
   /**
+   * @brief Sound affect for the birds
+   *
+   */
+  void MakeSound();
+
+  /**
    * @brief Throw the bird. The status of the bird would change to thrown.
    *
    */
@@ -51,6 +57,8 @@ class Bird : public Object {
   // targets.
   int maxHP_ = 100;
   int hp_ = 0.0f;
+  sf::SoundBuffer soundBuffer;
+  sf::Sound sound;
 
   // Used to define the Box2D body of the object.
   b2Body *body_;
